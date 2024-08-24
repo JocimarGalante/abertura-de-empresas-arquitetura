@@ -1,0 +1,36 @@
+{
+  "solicitacao": {
+    "solicitante": {
+      "ds_responsavel": "Catarina Ester da Cruz",
+      "nu_cpf": "83812080176",
+      "date_nascimento": "1984-04-20"
+    },
+    "empresa": {
+      "ds_nome_fantasia": "Diogo e Marcelo Filmagens Ltda",
+      "co_entidade_registro": 104306,
+      "tipo_empresa": "f",
+      "dados_matriz": {
+        "cnpj": "07709752000175",
+        "uf": "SP"
+      }
+    }
+  },
+  "entidade-registro": [
+    {
+      "key": 104305,
+      "value": "Cartório"
+    },
+    {
+      "key": 104306,
+      "value": "Junta Comercial"
+    },
+    {
+      "key": 104308,
+      "value": "OAB"
+    },
+    {
+      "key": 104309,
+      "value": "RFB"
+    }
+  ]
+}
